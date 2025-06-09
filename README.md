@@ -61,4 +61,6 @@ Tabular view of:
 ---
 
 ## 📸 Screenshots
-![Alt Text](overview.png)
+![overview dashboard](overview.png)
+![tima analysis dashboard](timeanalysis.png)
+![detail dashboard](detail.png)
